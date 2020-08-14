@@ -43,3 +43,24 @@ Typically observing a taxi driver does not go from point A to point B by the sho
 Inspired by Mark Newman's paper [13], in the following we explore his methodology from a simpler approach, that is, modelling the flow of an information packet in a network through an absorbent uniform random walk. We will refer to this method hereinafter as the Newman method.
 
 
+### References
+
+1. Grochowski, EG, Hoyt, RF & Heath, JS Magnetic Hard Disk Drive Form Factor Evolution. IEEE Transactions on Magnetics 29, 4065–4067 (1993).
+2. A. Barabasi, E. Bonabeau (2003). "Scale-Free Networks". Scientific American: 50–59.
+3. SH Strogatz, DJ Watts (1998). "Collective dynamics of 'small-world' networks". Nature. 393 (6684): 440–442.
+4. Amaral, LAN, Scala, A., Barthélémy, M. & Stanley, HE Classes of small-world networks. in Proceedings of the National Academy of Sciences of the United States of America 97, 11149–11152 (2000).
+5. Wasserman, S. & Faust, K Social Network Analysis Methods and Applications. (Cambridge University Press, 1944).
+6. Sabidussi, G. The centrality index of a graph. Psychometrika. 31, 4, 581-603 (1996).
+7. Brandes, U. A faster algorithm for betweenness centrality. The Jour. Math. Partner. 25, 163-177 (2001).
+8. Bonacich, P. Power and Centrality: A family of measures. Am. Jour. Soc. 92, 1170 (1987).
+9. Lü, L. et al. Vital nodes identification in complex networks. Physics Reports 650, 1–63 (2016) .650, 
+10. Padgett, JF & Ansell, CK Robust action and the rise of the Medici, 1400–1434. Am. Jour. Soc. 98, 1259 (1993).
+11. Matthew, J. Social and Economic Networks. (Princeton University Press, 2010).
+12. Zachary WW An information flow model for conflict and fission in small groups. Jour. Anth. Res. 33,452-473 (1977).
+13. Newman, MEJ (2005). "A measure of betweenness centrality based on random walks". Social Networks 27: 39-54.
+14. Knuth DE The Stanford GraphBase: A Platform for Combinatorial Computing. (Addison-Wesley, Reading, MA, 1993).
+15. [https://medium.com/swlh/what-is-influencer-marketing-the-complete-guide-2ef95a6eb4a3](https://medium.com/swlh/what-is-influencer-marketing-the-complete-guide-2ef95a6eb4a3)
+16. Herrera-Almarza G., et al. Properties of essential genes in the protein-protein interaction network of Escherichia coli from the perspective of network theory, Journal of Computational Methods in Sciences and Engineering 17 (1), 209-216 (2017).
+17. Pastor-Satorras, R., Castellano, C., Van Mieghem, P. & Vespignani, A. Epidemic processes in complex networks. Reviews of Modern Physics 87, (2015).
+18. Yook, SH, Jeong, H. & Barabási, AL Modeling the internet's large-scale topology. Proceedings of the National Academy of Sciences of the United States of America 99, 13382-13386 (2002).
+19. Bottinelli, A., Perna, A., Ward, A. & Sumpter, D. Proceedings of the European Conference on Complex Systems 2012. in Proceedings of the European Conference on Complex Systems 2012591–606 (2013). doi: 10.1007 / 978-3-319-00395-5
