@@ -14,7 +14,7 @@ Basically any dataset that can be described through a set of nodes or entities, 
 
 * Computer and IoT devices networks: Here the nodes are composed by all the devices of the IoT ecosystem (smartphones, Arduino-based sensors, raspberry, tablets, smart devices, computers, etc.) and the connections can be wired and/or abstract, e.g., wifi, 3G, 4G, 5G, Bluetooth, etc.
 
-vSeismicity and climate: The versatility of the networks is also shown via the representation of data of temporal nature such as seismicity or climate, which are measured with respect to time. In this case, the nodes are geographical zones and two nodes are connected if there exist correlation or causal relationships [18].
+* Seismicity and climate: The versatility of the networks is also shown via the representation of data of temporal nature such as seismicity or climate, which are measured with respect to time. In this case, the nodes are geographical zones and two nodes are connected if there exist correlation or causal relationships [18].
 
 * Online Stores: We can represent the products of an electronic store as a network, in which two products are connected if both were searched or purchased by the same user. Another kind of connection is given by the relationships that these products have (metadata). For example, a tennis racket and socks can share the attributes: sports, outdoors, hobbies, so they could be connected, but not a racket and a bed.
 
