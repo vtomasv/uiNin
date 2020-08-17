@@ -1,6 +1,6 @@
 # ✨ Unveiling important nodes in a network  ✨
 
-Written by @nicolas.poza, [@alejandro.alvarez](https://scholar.google.com/citations?user=yzwCzQ4AAAAJ&hl=es), [@tomas.vera](http://vtomasv.net/), @kilvercampos 
+Written by @nicolas.poza, [@alejandro.alvarez](https://scholar.google.com/citations?user=yzwCzQ4AAAAJ&hl=es), [@tomas.vera](http://vtomasv.net/), [@kilvercampos](https://scholar.google.cl/citations?user=_U7ZYooAAAAJ&hl=es&oi=ao) 
 
 The detection of the most important nodes in a graph-database (or network dataset) is a problem of wide interest in various scientific disciplines, particularly in the data sciences. Its relevance has been increasing in recent years thanks to the advances in storage and computing power of modern computers [1]  in the 1990s,  along with the explosive boom in network theory in the early 2000s [2,3,4].
 
